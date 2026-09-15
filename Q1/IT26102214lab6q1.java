@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class IT26102214lab6q1{
+ public class IT26101335Lab6q1{
   public static void main (String[] args){
 	  double number, square,squareroot;
 	  Scanner input = new Scanner(System.in);
